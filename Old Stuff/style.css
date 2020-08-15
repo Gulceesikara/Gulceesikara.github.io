@@ -1,0 +1,18 @@
+h1{
+	color: #0000FF
+}
+h2{
+	color: #00CCFF
+}
+body {
+    font-size: 14px;
+    font-weight: 300;
+    font-family: Yantramavan, sans-serif;
+}
+body{
+    background-image: url("space.JPEG");
+    min-height: 600px;
+    background-size: cover;
+    background-position: center center;
+}
+
