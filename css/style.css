@@ -1,3 +1,7 @@
+*{
+  margin:0;
+  padding:0;
+}
 body {
     font-size: 14px;
     font-weight: 300;
@@ -47,10 +51,9 @@ body {
 
 
 
-
 .header-area{
     background: url(../images/home2.jpg);
-    min-height: 600px;
+    min-height: 900px;
     background-size: cover;
     background-position: center center;
 }
@@ -234,7 +237,7 @@ input[type=submit]:hover {
 /*Profile card*/
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 300px;
+  max-width: 400px;
   margin: auto;
   text-align: center;
 }
@@ -249,7 +252,7 @@ button {
   outline: 0;
   display: inline-block;
   padding: 8px;
-  color: white;
+  color: rgb(255, 255, 255);
   background-color: #000;
   text-align: center;
   cursor: pointer;
